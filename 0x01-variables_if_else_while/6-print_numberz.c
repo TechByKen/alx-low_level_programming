@@ -6,10 +6,8 @@
  */
 int main(void)
 {
-char number;
-
-for (number = '0'; number <= '9'; number++)
-putchar(number);
+int 0;
+putchar('0' + 0);
 putchar('\n');
 return (0);
 }
