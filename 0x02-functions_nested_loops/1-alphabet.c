@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * main - Entry point function
+ * print_alphabet - Entry point function
  *
  * Return: Always O
  */
